@@ -99,4 +99,5 @@ Other members of the Trin team have also provided feedback and guidance (but the
 - [Project Proposal Presentation Slides](https://github.com/eth-protocol-fellows/cohort-four/blob/master/notes/danielrachi/slides.pdf)
 - [Flashbots PBS Architecture](https://hackmd.io/@danielrachi/HJxXjUwC2)
 - [Beacon Node StartUp](https://hackmd.io/@danielrachi/S1u2Veflp)
+- [Engine API: A Visual Guide](https://hackmd.io/@danielrachi/Bk6CELky6)
 
